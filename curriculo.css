@@ -1,0 +1,86 @@
+*{ box-sizing: border-box;}
+
+body {
+
+    display: flexbox;
+    background-color: rgb(10, 10, 10);
+}
+
+.carousel-item {
+    height: 90px;
+    width: 90px;
+    top: 0%;
+    left: 75%;
+    display: flex;
+}
+
+
+form {
+
+    margin: 20px;
+}
+
+h1 {
+    color: rgb(239, 237, 243);
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 10px 10px 20px rgb(239, 237, 243);
+    font-family: Verdana, sans-serif;
+}
+
+div {
+
+    position: absolute;
+    bottom: 56%;
+    left: 13%;
+    width: 31%;
+}
+
+.button {
+
+    position: relative;
+    left: 20%;
+    bottom: 21px;
+}
+
+img {
+    margin: 20px;
+    border-radius: 10px;
+
+}
+
+.robônave {
+    height: 60px;
+    width: 60px;
+}
+
+.titulos1 {
+
+    color: rgb(239, 237, 243);
+    font-weight: bold;
+    font-family: Verdana, sans-serif;
+
+}
+
+.paragrafo-lista1 {
+    position: relative;
+    color: rgb(239, 237, 243);
+    font-family: Verdana, sans-serif;
+    padding: 05px;
+}
+
+.titulos {
+
+    color: rgb(239, 237, 243);
+    font-weight: bold;
+    font-family: Verdana, sans-serif;
+    margin: 20px;
+}
+
+
+.paragrafo-lista {
+
+    color: rgb(239, 237, 243);
+    font-family: Verdana, sans-serif;
+    margin: 20px;
+}
